@@ -8,6 +8,6 @@ I love working with challenging and creative projects. As a developer, I'm alway
 
 ### Skills
 
-[HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+[![HTML Badge](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandomoraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
