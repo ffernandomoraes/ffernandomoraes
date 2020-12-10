@@ -23,5 +23,6 @@ I love working with challenging and creative projects. As a developer, I'm alway
 [![Laravel Badge](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
 [![Mysql Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)]()
 [![Mongo Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)]()
+and more...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ffernandomoraes&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
